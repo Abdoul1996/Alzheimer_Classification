@@ -1,6 +1,4 @@
-# Alzheimer_Classification
-
-## Alzheimer’s Disease Classification Using PET Images
+# Alzheimer’s Disease Classification Using PET Images
 
 ## Overview
 This project leverages deep learning models—VGG16, InceptionV3, and ResNet50—to classify brain PET images into three categories:
